@@ -1,0 +1,6 @@
+streamlit == 1.11.1
+nltk == 3.7
+altair== 4.2.0
+xgboost == 1.6.2
+scikit-learn == 1.1.2
+#sklearn == 0.0
